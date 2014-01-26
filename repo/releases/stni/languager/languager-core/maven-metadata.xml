@@ -3,10 +3,11 @@
   <groupId>stni.languager</groupId>
   <artifactId>languager-core</artifactId>
   <versioning>
-    <release>1.1.6</release>
+    <release>1.2.0</release>
     <versions>
       <version>1.1.6</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20140125163720</lastUpdated>
+    <lastUpdated>20140126003713</lastUpdated>
   </versioning>
 </metadata>
