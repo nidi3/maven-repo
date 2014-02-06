@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>stni.maven.plugins</groupId>
+  <artifactId>atlassian-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.0.1</latest>
+    <release>1.0.1</release>
+    <versions>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20140206234810</lastUpdated>
+  </versioning>
+</metadata>
